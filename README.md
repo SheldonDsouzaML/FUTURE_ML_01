@@ -12,6 +12,8 @@ In this project, I built a predictive analytics dashboard to help retail busines
 - Build a Power BI dashboard for visualization.
 - Provide clear **business insights** from the results.
 
+---
+
 ### 🛠️ Tools You'll Use
 Power BI
 Python
@@ -19,6 +21,8 @@ Jupyter
 Pandas
 Scikit-learn
 Prophet
+
+---
 
 ### ✅ Project Workflow
 
@@ -28,6 +32,7 @@ Prophet
 4.  **Dashboard Development:** Designed and built an interactive dashboard in Power BI, connecting the historical data and the forecasted data.
 5.  **Data Visualization:** Created visuals to display past trends vs. future forecasts, monthly/yearly comparisons, and sales by category/region.
 
+---
 
 ### 🎯 Key Features Included
 
@@ -37,8 +42,10 @@ Prophet
 ✔️ KPI cards for quick insights (e.g., YoY Growth, Total Sales)
 ✔️ Insights and actionable business recommendations
 
+---
+
 ## 📂 Project Structure
-FUTURE_ML_01/
+```text
 │── data/                 # Raw and processed datasets
 │   ├── dataset.csv
 │
@@ -56,12 +63,17 @@ FUTURE_ML_01/
 │
 │── README.md             # Project overview
 │── requirements.txt      # Dependencies (numpy, pandas, scikit-learn, matplotlib, etc.)
+```
+
+---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot 1](<img width="929" height="288" alt="image" src="https://github.com/user-attachments/assets/3c57a4ce-d5c9-460e-8bac-425ed4f687cc" />
-)
-![Dashboard Screenshot 2](<img width="1433" height="806" alt="image" src="https://github.com/user-attachments/assets/7da39992-c8b6-4420-afb5-faf4881fcb15" />
-)
+
+![Dashboard Screenshot 1](../dashboard_s2.png)
+![Dashboard Screenshot 2](../dashboard_s1.png)
+
+
+---
 
 ## 🚀 How to Run
 1. Clone the repository:
