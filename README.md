@@ -34,6 +34,8 @@ Prophet
 
 ---
 
+---
+
 ### 🎯 Key Features Included
 
 ✔️ Sales trend line with actual vs. forecasted data
@@ -41,6 +43,8 @@ Prophet
 ✔️ Interactive filters by category, region, and date
 ✔️ KPI cards for quick insights (e.g., YoY Growth, Total Sales)
 ✔️ Insights and actionable business recommendations
+
+---
 
 ---
 
@@ -100,3 +104,4 @@ Prophet
 
 
 - **Task** : AI-Powered Sales Forecasting Dashboard (Task 1)
+
