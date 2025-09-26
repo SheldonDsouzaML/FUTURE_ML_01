@@ -23,7 +23,6 @@ In this project, I built a predictive analytics dashboard to help retail busines
 
 ---
 
-
 ### ✅ Project Workflow
 
 1.  **Data Cleaning & Preprocessing:** Loaded the dataset and handled missing values, corrected data types, and structured the data for time series analysis.
@@ -68,10 +67,8 @@ In this project, I built a predictive analytics dashboard to help retail busines
 ---
 
 ## 📷 Dashboard Preview
-
 ![Dashboard Screenshot 1](../dashboard_s2.png)
 ![Dashboard Screenshot 2](../dashboard_s1.png)
-
 
 ---
 
@@ -100,4 +97,3 @@ In this project, I built a predictive analytics dashboard to help retail busines
 
 
 - **Task** : AI-Powered Sales Forecasting Dashboard (Task 1)
-
