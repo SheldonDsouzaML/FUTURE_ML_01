@@ -15,12 +15,13 @@ In this project, I built a predictive analytics dashboard to help retail busines
 ---
 
 ## 🛠️ Tools & Technologies
+```
 - **Python** (Pandas, Prophet, Matplotlib, Scikit-learn, NumPy)
 - **Power BI Desktop**
 - **Superstore Sales Dataset**
 - **GitHub** for code hosting
 - **Prophet**
-
+```
 ---
 
 ### ✅ Project Workflow
@@ -35,11 +36,13 @@ In this project, I built a predictive analytics dashboard to help retail busines
 
 
 ## 📊 Key Features in Dashboard
+```
 ✔️ Sales trend line with actual vs. forecasted data
 ✔️ Monthly & yearly comparisons
 ✔️ Interactive filters by category, region, and date
 ✔️ KPI cards for quick insights (e.g., YoY Growth, Total Sales)
 ✔️ Insights and actionable business recommendations
+```
 
 ---
 
@@ -67,9 +70,10 @@ In this project, I built a predictive analytics dashboard to help retail busines
 ---
 
 ## 📷 Dashboard Preview
+```
 ![Dashboard Screenshot 1](../dashboard_s2.png)
 ![Dashboard Screenshot 2](../dashboard_s1.png)
-
+```
 ---
 
 ## 🚀 How to Run
