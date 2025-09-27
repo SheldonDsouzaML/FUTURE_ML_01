@@ -68,8 +68,8 @@ In this project, I built a predictive analytics dashboard to help retail busines
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot 1](../dashboard_s2.png)
-![Dashboard Screenshot 2](../dashboard_s1.png)
+* <img width="1433" height="806" alt="Screenshot 2025-09-26 133701" src="https://github.com/user-attachments/assets/ece47722-419e-4653-8cff-5d5a8574ac1d" />
+* <img width="929" height="288" alt="Screenshot 2025-09-26 133617" src="https://github.com/user-attachments/assets/3143edbc-6cb3-4791-8eed-48442c86342f" />
 
 ---
 
