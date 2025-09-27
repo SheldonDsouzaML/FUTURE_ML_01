@@ -36,11 +36,11 @@ In this project, I built a predictive analytics dashboard to help retail busines
 
 
 ## 📊 Key Features in Dashboard
-✔️ Sales trend line with actual vs. forecasted data
-✔️ Monthly & yearly comparisons
-✔️ Interactive filters by category, region, and date
-✔️ KPI cards for quick insights (e.g., YoY Growth, Total Sales)
-✔️ Insights and actionable business recommendations
+*✔️ Sales trend line with actual vs. forecasted data
+*✔️ Monthly & yearly comparisons
+*✔️ Interactive filters by category, region, and date
+*✔️ KPI cards for quick insights (e.g., YoY Growth, Total Sales)
+*✔️ Insights and actionable business recommendations
 
 ---
 
